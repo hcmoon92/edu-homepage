@@ -1,0 +1,386 @@
+@charset "utf-8";
+
+
+
+img, select, input, button {vertical-align:middle;}
+
+
+
+ /* 게시판 : 검색 */
+.board-srch { position:relative; z-index:1000; overflow:hidden; margin:0 0 15px 0;  }
+.board-srch div { position:relative;  float:right; overflow:hidden; text-align:right; border:none  }
+.board-srch select { float:left; width:80px; padding:1px 0; height:28px; font-size:1em; border:1px solid #d7d7d7; color:#666; background:#fff; margin-right: 8px;}
+.board-srch input.txt { float:left; width:140px; height:26px; line-height:26px; padding:0 5px; background:#f7f7f7; border:1px solid #d7d7d7;  }
+.board-srch button.btnSearch { position:absolute; right:0; top:0; width:30px; height:28px; font-size:0; background:url('../../../images/egovframework/tta/sub/btnSrch.gif') no-repeat;}
+.board-srch button.btnSearch label { display:none;}
+.board-srch #semina_srch { /* margin: 0px 30%; */ width: 262px;}
+
+.boardTop { position:relative; overflow:hidden; margin-bottom:10px; z-index:1;height:28px;}
+.boardTop .board-srch { margin:0; }
+.boardTop .board-total { position:absolute; left:0; top:10px; z-index:1001; }
+.boardTop .board-total span { display:inline-block; margin:0 10px 0 0; }
+.boardTop .board-total strong { color:#005fe6; font-weight:normal;  }
+
+/* 게시판 : 텍스트 */
+.board-text { position:relative; border-top:1px solid #2c2c2c; }
+.board-text > table { width:100%; border-collapse:collapse; border-spacing:0; border:0;}
+
+
+.board-text > table thead th, .board-text td { padding:10px 0; /*text-align:center;*/}
+.board-text > table thead th { border-bottom:1px solid #999; font-size:1.05em; color:#111; background-color:#f4f4f4; }
+.board-text > table  td {  border-bottom:1px solid #d9d9d9;   }
+.board-text > table  td.link { padding:15px 15px; }
+.board-text > table  td.link b { font-weight:bold; }
+.board-text > table  td.link a { color:#111; }
+.board-text > table  td.link a:hover,
+.board-text > table  td.link a:focus,
+.board-text > table  td.link a:active { color:#111; padding:15px 0;  }
+.board-text > table  tr th:last-child, .board-text  tr td:last-child { background-image:none; }
+
+.board-text > table thead th, .board-text td { padding:10px 0; /*text-align:center;*/}
+.board-text > table th.eduinfo-no {border-right:dotted 1px #ccc;}
+.board-text > table th.eduinfo {border-bottom:dotted 1px #ccc;}
+
+.board-text > table.double-line th { padding:0; height:33px; }
+.board-text > table.double-line td { padding:0; height:45px; line-height:160%; }
+
+.board-text .promote{width:100%; position:relative;}
+.board-text .promote .video {position:relative; width:100%; padding-bottom:56.25%; padding-top:30px; height:0; overflow:hidden;}
+.board-text .promote .video iframe,
+.board-text .promote .video object,
+.board-text .promote .video embed {position:absolute; top:0; left:0; width:100%; height:100%; z-index:0;}
+
+
+/* 게시판 : 텍스트 뷰 */
+.board-text .tit { padding:15px 0 15px 20px; font-size:1.0em !important; font-weight:bold; color:#333; border-top:1px solid #999; border-bottom:1px solid #999; }
+.board-text .tit strong { display:inline-block; margin:0 30px 0 0; padding:0 32px 0 0; background:url('../../../images/egovframework/tta/board/bgInfo.gif') right center no-repeat; }
+.board-text .infoBox { overflow:hidden; padding:15px 0 15px 20px; font-size:12px;  border-bottom:1px solid #999; background:#effaff; margin-bottom:10px; }
+.board-text .infoBox li { float:left; color:#666; width:28%; }
+.board-text .infoBox li.faq { float:left; color:#666; width:42%; }
+.board-text .infoBox li strong { display:inline-block; margin:0 30px 0 0; padding:0 30px 0 0; background:url('../../../images/egovframework/tta/board/bgInfo.gif') right center no-repeat; color:#333 }
+.board-text .infoBox_last { overflow:hidden; padding:15px 0 15px 20px;  font-size:12px;  border-bottom:1px solid #d7d7d7; background:#fcfcfc; }
+.board-text .infoBox_last li { float:left;  color:#666; width:50%; }
+.board-text .infoBox_last li strong { display:inline-block; margin:0 30px 0 0; padding:0 40px 0 0; background:url('../../../images/egovframework/tta/board/bgInfo.gif') right center no-repeat;  }
+.board-text .viewBox { overflow:hidden; color:#666; padding:20px; border-bottom: 1px solid #999; line-height:160%; }
+.board-text .viewBox p { line-height:160%; }
+
+
+
+
+
+
+/* 첨부파일 */
+.board-text .fieldBox { padding:15px 20px; border-top:1px solid #d7d7d7; border-bottom:1px solid #999; }
+.board-text .fieldBox dl { overflow:hidden; color:#666; line-height:1.5em; }
+.board-text .fieldBox dt { float:left; padding:0 13px 0 0; margin:0 13px 0 0; font-weight:bold; background:url('../../../images/egovframework/tta/sub/bgTxtList.gif') right center no-repeat;  }
+.board-text .fieldBox dd { float:left; }
+.board-text .fieldBox dd a { display:inline-block; padding:0 25px 0 0; color:#666;  background:url('../../../images/egovframework/tta/board/icoFile.png') right center no-repeat; }
+.board-text .fieldBox dd a:hover,
+.board-text .fieldBox dd a:focus,
+.board-text .fieldBox dd a:active { font-weight:bold; color:#e60000;  }
+
+/* 이전글 다음글 */
+.listNavi { clear:both; overflow:hidden; margin:20px 0; border:1px solid #999; border-left:0; border-right:0;  }
+.listNavi li { overflow:hidden; }
+.listNavi li.next { border-top:1px solid #d7d7d7; }
+.listNavi li.next a { background-image:url('../../../images/egovframework/tta/sub/bgNextList.gif');  }
+.listNavi li a { display:block; overflow:hidden; padding:15px 20px; background:url('../../../images/egovframework/tta/sub/bgPrevList.gif') 20px center no-repeat;}
+.listNavi li a strong { display:inline-block; padding:0 20px; background:url('../../../images/egovframework/tta/sub/bgTxtList.gif') right center no-repeat;  }
+.listNavi li a span { display:inline-block; padding-left:20px; }
+
+
+
+/* 페이징 2 */
+.board-paging { clear:both; margin:10px 0; height:25px; text-align:center; }
+.board-paging a { display:inline-block; }
+.board-paging span { margin:0 10px; }
+.board-paging span a { margin:0 5px; color:#666; height:25px;  }
+.board-paging span a:hover, .board-paging span a:focus, .board-paging span a:active { color:#333; border-bottom:1px solid #333; }
+.board-paging span strong { display:inline-block; margin:0 5px; color:#333; border-bottom:1px solid #333; font-weight:normal; font-family:'NanumBold'; }
+.board-paging span em { display:none; font-style:normal;}
+
+
+
+
+
+
+/* 참여하기 - 자유게시판_뷰 */
+/* 왕성철 수정 */
+.board02{ width:100%; border-collapse:collapse; border-spacing:0; border:0;}
+.board02 thead tr th{border-top:2px solid #0079c8; border-top:2px solid #0079c8; color:#0079c8; font-size:16px; font-weight:bold;  padding:12px 0px 12px 18px; text-align:left;}
+.board02 tbody tr th{border:1px solid #e1e1e1;  background:#f6fafc; color:#333; font-weight:bold; font-size:13px; padding:10px; padding-left:18px; text-align:left;}
+.board02 tbody tr th:LAST-CHILD{border-right:none;}
+.board02 tbody tr td{border-right:1px solid #e1e1e1; border-bottom:1px solid #e1e1e1; text-align:left; font-size:13px; padding:10px; padding-left:18px; line-height:18px;}
+.board02 tbody tr td:LAST-CHILD{border-right: none;}
+
+.bdl_x{border-left:0 !important;}
+
+.board_con{padding:20px; font-size:13px; color:#333; line-height:18px; border-bottom:1px solid #e1e1e1;}
+
+
+
+
+/* 게시판 : 작성 */
+.board-write { position:relative; border-top:2px solid #2c2c2c; }
+.board-write > table { width:100%;}
+.board-write .tit { padding:15px 0; overflow:hidden;}
+.board-write .tit .inputTxt { width:81%;}
+.board-write .label {font-weight:bold; color:#333; display:inline-block; float:left; width:15%; margin:0 1% 0 2%; line-height:22px; background:url('../../../images/egovframework/tta/board/bgInfo.gif') right center no-repeat;}
+.board-write .inputTxt {padding:0 1%; height:22px; border:1px solid #abadb3;}
+.inputTxt.type01{width:10%;}
+.inputTxt.type02{width:20%;}
+.inputTxt.type03{width:30%;}
+.inputTxt.type04{width:40%;}
+.inputTxt.type05{width:50%;}		
+.board-write .infoBox { overflow:hidden; padding:15px 0; border-top:1px dashed #d7d9da; border-bottom:1px solid #999;}
+.board-write .infoBox li {margin:0; color:#666;}
+.board-write .infoBox_last { overflow:hidden; padding:0 0 15px 0; border-bottom:1px solid #d7d7d7; background:#fcfcfc; }
+.board-write .infoBox_last li {margin:15px 0 0 0; color:#666; }
+.board-write .selectTxt {height:24px; line-height:24px; border:1px solid #abadb3;}
+.board-write .viewBox { overflow:hidden; color:#666; padding:15px 0; border-bottom: 1px solid #999;}
+.board-write .textarea { width:78%; height:200px; padding:0 1%; margin:0; border:1px solid #abadb3; }
+/* 첨부파일 */
+.board-write .fieldBox { padding:15px 0; border-top:1px solid #d7d7d7; border-bottom:1px solid #999; }
+.board-write .fieldBox dl { overflow:hidden; color:#666; line-height:1.5em;}
+.board-write .fieldBox dl dd { float:left; width:81%}
+.board-write .fileWrap { position:relative; }
+.board-write .fileWrap .file { display:block; padding-right:82px;}
+.board-write .fileWrap .file input { padding:0 5px; height:25px; width:97%; border:1px solid #abadb3; }
+.board-write .fileWrap .fileBg { position:absolute; right:6px; top:0; display:inline-block; width:65px; height:27px; background:url('../../../images/egovframework/tta/board/btnFileSearch.gif') 0 0 no-repeat; }
+.board-write .fileWrap .fileBg input { filter:alpha(opacity:0); opacity:0; width:65px; height:27px; cursor:pointer; }
+.board-write .fileWrap + .fileWrap { margin-top:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 테이블 탑 */
+
+
+.layerMatchMeWList							{ position: relative; width: 100%; margin: 0;  background-color: #fff; }
+.layerMatchMeWList							{
+											scrollbar-face-color: #fff;				/* bar 의 표면색 */
+											scrollbar-highlight-color: #dbdbdb;		/* 밝게 빛나는 좌상단 모서리 */
+											scrollbar-3dlight-color: #fff;			/* 좌상단 모서리 아래부분 */
+											scrollbar-shadow-color: #dbdbdb;		/* 그림자 지는 우하단 */
+											scrollbar-darkshadow-color: #fff;		/* 그림자 우하단 */
+											scrollbar-track-color: #fff;			/* 스크롤 트랙의 색 */
+											scrollbar-arrow-color: #9d9d9d;			/* 삼각형부분 */
+										}
+
+
+.layerMatchMeWList .matchMeContainer		{ clear: both; background: #cacaca;}
+.layerMatchMeWList .matchMeContainer:after	{ content: ""; display: block; clear: both; height: 0; visibility: hidden; }
+
+.layerMatchMeWList .matchMeStep3				{ display: none; padding: 9px 6px 6px 6px;  }
+.layerMatchMeWList .matchMeStep3				{  no-repeat 0 0; }
+.layerMatchMeWList .matchMeStep3:after		{ content: ""; display: block; clear: both; height: 0; visibility: hidden; }
+
+.layerMatchMeWList .matchMeAside				{ float: left; margin-right: 22px; }
+
+.layerMatchMeWList .matchMeContent			{ position: relative; float: left; width: 855px; overflow: hidden; }
+.layerMatchMeWList .matchMeContent:after		{ content: ""; display: block; clear: both; height: 0; visibility: hidden; }
+.layerMatchMeWList .lt,
+.layerMatchMeWList .rt,
+.layerMatchMeWList .lb,
+.layerMatchMeWList .rb { display: block; position: absolute; width: 4px; height: 4px; font-size: 0; line-height: 0; }
+
+.layerMatchMeWList .lt { top: -1px; left: -1px; background: url("/images/typeW/matchMe/box_lt2.gif") no-repeat 0 0; }
+.layerMatchMeWList .rt { top: -1px; right: -1px; background: url("/images/typeW/matchMe/box_rt2.gif") no-repeat 0 0; }
+.layerMatchMeWList .lb { bottom: -1px; left: -1px; background: url("/images/typeW/matchMe/box_lb2.gif") no-repeat 0 0; }
+.layerMatchMeWList .rb { bottom: -1px; right: -1px; background: url("/images/typeW/matchMe/box_rb2.gif") no-repeat 0 0; }
+.layerMatchMeWList a,
+.layerMatchMeWList a:hover,
+.layerMatchMeWList a:active,
+.layerMatchMeWList a:focus { outline: none; select-dummy: expression(this.hideFocus=true); }
+
+/* matchMeAside
+-----------------------------------------------*/
+.layerMatchMeWList .matchMeAside .tit				{ position: relative; height: 22px; }
+
+/* matchMeContent
+-----------------------------------------------*/
+.layerMatchMeWList .matchMeContent .tit	{ position: relative; height: 22px; }
+
+.layerMatchMeWList .matchMeContent .matchMeRoadmap								{ position: relative; width: 855px; }
+.layerMatchMeWList .matchMeContent .matchMeRoadmap .roadmapMask 					{ position: relative; width: 855px; height: 100px; border: 1px solid #d2d2d2; background-color: #fff; }
+.layerMatchMeWList .matchMeContent .matchMeRoadmap .roadmapMask .indis			{ position: absolute; top: -30px; right: 0; height: 18px; padding-top: 12px; color: #454543; font-size: 11px; text-align: right; line-height: 1;}
+.layerMatchMeWList .matchMeContent .matchMeRoadmap .roadmapMask .indis img		{ vertical-align: top; }
+.layerMatchMeWList .matchMeContent .matchMeRoadmap .roadmapMask .roadmapHead		{ display: none; position: relative; width: 855px; border-bottom: 2px solid #d9d9d9; /*overflow: hidden; */}
+.layerMatchMeWList .matchMeContent .matchMeRoadmap .roadmapMask .roadmapBody		{ display: none; position: relative; width: 855px; height: 231px; padding-bottom: 1px; /*overflow-x: hidden; overflow-y: scroll; */}
+.layerMatchMeWList .matchMeContent .matchMeRoadmap .roadmapMask .empty			{ min-height: 12px; height: auto !important; height: 12px; padding: 10px 14px 8px 14px; color: #595959; letter-spacing: -1px; vertical-align: top; }
+.layerMatchMeWList .matchMeContent .matchMeRoadmap .tit {  font-weight:bold; color:#444; font-size:14px; margin-bottom:5px;}
+:root .layerMatchMeWList .matchMeContent .matchMeRoadmap .roadmapMask .indis		{ line-height: 1.3 \0/IE9; }
+
+/* roadmapTable
+-----------------------------------------------*/
+.layerMatchMeWList .roadmapTable,
+.layerMatchMeWList .roadmapTable caption,
+.layerMatchMeWList .roadmapTable tbody,
+.layerMatchMeWList .roadmapTable tfoot,
+.layerMatchMeWList .roadmapTable thead,
+.layerMatchMeWList .roadmapTable tr,
+.layerMatchMeWList .roadmapTable th,
+.layerMatchMeWList .roadmapTable td	{ margin: 0; padding: 0; border: 0; }
+.layerMatchMeWList .roadmapTable		{ clear: both; /*width: 710px;*/ width: 855px; border-collapse: collapse; table-layout: fixed; }
+.layerMatchMeWList .roadmapTable th,
+.layerMatchMeWList .roadmapTable td	{ padding: 10px 0 7px 0; border: 1px solid #e5e5e5; background-color: #fff; color: #676767; font-size: 11px; line-height: 1.20; }
+
+/* roadmapTableHead */
+.layerMatchMeWList .roadmapTableHead				{ margin-left: -1px; border-top: 0; }
+.layerMatchMeWList .roadmapTableHead td			{ height: 12px; border-top: 0; border-bottom: 0; text-align: center; letter-spacing: -1px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.layerMatchMeWList .roadmapTableHead td.blank	{ width: 55px; }
+
+/* roadmapTableBody */
+.layerMatchMeWList .roadmapTableBody				{ margin-left: -1px; margin-top: -1px;}
+.layerMatchMeWList .roadmapTableBody th				{ width: 55px; height: 76px; padding: 0; background-color: #f4f4f4; font-weight: normal; text-align: center; }
+.layerMatchMeWList .roadmapTableBody td				{ padding: 0 0 25px 0; padding: 0; text-align: left; vertical-align: top; }
+.layerMatchMeWList .roadmapTableBody td p			{ height:70px; position: relative; margin-top: -1px; margin-bottom: -1px; border-top: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; background-color: #f9f1de; color: #676767; font-size: 11px; line-height: 1.30; letter-spacing: -1px; cursor: default; word-break: break-all; overflow: hidden; }
+.layerMatchMeWList .roadmapTableBody td p a			{ text-align:center; padding: 25px; display: block; /*padding: 7px 5px 4px 5px; */}
+:root .layerMatchMeWList .roadmapTableBody td p a	{ padding: 8px 5px 3px 5px \0/IE9; }
+.layerMatchMeWList .roadmapTableBody td p.basic a	{  }
+.layerMatchMeWList .roadmapTableBody td p.essen a	{ padding-left: 20px; background: #f9f1de url("/images/typeW/matchMe/bul_essen.gif") no-repeat 5px 7px; _background-position: 5px 9px; }
+.layerMatchMeWList .roadmapTableBody td p.other a	{ padding-left: 20px; background: #f9f1de url("/images/typeW/matchMe/bul_other.gif") no-repeat 5px 7px; _background-position: 5px 9px; }
+.layerMatchMeWList .roadmapTableBody td p.on a		{ color: #cb6c00; }
+
+.layerMatchMeWList .roadmapTableBody tr td.emptyDate	{ height: 228px; text-align: center; vertical-align: middle; }
+
+/* matchMeIf
+-----------------------------------------------*/
+.layerMatchMeWList .matchMeIf									{ padding: 20px 22px 18px 22px; }
+.layerMatchMeWList .matchMeIf .courseInfoMask					{ position: relative; padding: 4px 0 40px 0; border: 1px solid #eee;
+																-webkit-border-radius: 5px;
+																-moz-border-radius: 5px;
+																border-radius: 5px;}
+.layerMatchMeWList .matchMeIf .courseInfoMask .courseInfo		{  }
+.layerMatchMeWList .matchMeIf .courseInfoMask .courseInfoFrame	{ width: 934px; }
+
+/* matchMeClose
+-----------------------------------------------*/
+.layerMatchMeWList .matchMeClose		{ position: absolute; top: 18px; right: 23px; clear: both; }
+.layerMatchMeWList .matchMeClose a	{ display: inline-block; }
+.layerMatchMeWList .matchMeClose img { display: block; }
+
+/* matchMeEmptyData
+-----------------------------------------------*/
+.layerMatchMeWList .empty			{ display: none; }
+
+
+
+
+
+
+
+/* 버튼 디자인 */
+
+.btn_apply  { display:inline-block; width:55px; height:18px; line-height:19px; font-size:11px; color:#1a6dc9; text-align:center; 
+                              background-color:#ebf6fc; border:1px solid #1a6dc9; margin-right:7px; }
+.btn_wait  { display:inline-block; width:55px; height:18px; line-height:19px; font-size:11px; color:#e76e0c; text-align:center; 
+                              background-color:#fdf3e9; border:1px solid #e76e0c; margin-right:7px; }							  
+.btn_end  { display:inline-block; width:55px; height:18px; line-height:19px; font-size:11px; color:#656565; text-align:center; 
+                              background-color:#f2f2f2; border:1px solid #656565; margin-right:7px; }								  
+							  
+							  
+.btn_apply2  { display:inline-block; width:110px; height:25px; line-height:20px; font-size:15px; font-weight:bold; color:#fff; text-align:center; 
+                              background-color:#f66603; float:right; padding-top: 5px;}
+.btn_line_gray  {  display:inline-block; float: right; width:55px; height:18px; line-height:18px; font-size:11px; color:#FFF; text-align:center; 
+                              background-color:#c0504d; border:1px solid #656565; }							  							  
+.btn_s_orange  { display:inline-block; margin-left:5px; padding-left:5px; padding-right:5px;height:20px; line-height:20px; font-size:11px; color:#fff; text-align:center; 
+                               background-color:#e84b0e; }
+	
+.btn_blue  { display:inline-block; width:95px; height:25px; line-height:20px; font-size:15px; color:#fff; text-align:center; 
+                               background-color:#1a6dc9; padding-top:5px; }							   
+.btn_green  { display:inline-block; width:95px; height:25px; line-height:20px; font-size:15px; color:#fff; text-align:center; 
+                               background-color:#7ea842; padding-top:5px; }								   
+.btn_gray  { display:inline-block; width:95px; height:25px; line-height:20px; font-size:15px;  color:#fff; text-align:center; 
+                               background-color:#656565; padding-top:5px;}	
+.btn_gray_admin  { display:inline-block; width:95px; height:25px; line-height:23px; font-size:15px;  color:#fff; text-align:center; 
+                               background-color:#656565;}	
+													   
+							   
+							   
+
+/* 내용  */
+.foreigner {width:720px;float:left;  margin-top:10px;padding:30px 0;line-height:18px;font-size:13px;}
+.txt_h4 {background:url('../../../images/egovframework/tta/sub/arrow01.gif') no-repeat left 2px;padding-left:23px;font-size:16px;font-weight:bold;margin-bottom:10px;letter-spacing:-0.5px; }
+.foreigner ul{ padding-top:10px;}
+.foreigner li{ text-indent:-8px; padding-left:8px;}
+.foreigner:after{display:block; content:"";clear:both;}
+
+
+
+
+
+.table02 p{font-size:13px;font-weight:bold;color:#0079c8;margin-bottom:15px;line-height:18px;}
+.table02 table{width:100%; margin-top:10px; border-collapse:collapse; border-spacing:0; border:0;}
+.table02 table thead th{height:36px;border-top:1px solid #e1e1e1;background:#f6fafc;color:#0079c8;font-size:14px;border-left:1px solid #e1e1e1;}
+.table02 table thead th:first-child{border-left:0;}
+.table02 table tbody td{ padding:10px 5px; border-top:1px solid #e1e1e1;border-left:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;text-align:center;font-size:13px;}
+.table02 table tbody td:first-child{border-left:0;font-weight:bold;}
+.table02 table tbody td.bg01{background:#fef4ec;color:#f27719;font-weight:bold;}
+.table02 table tbody td.txt_l{text-align:left;padding-left:14px;}
+
+
+
+.table04a {clear: both;}
+.table04a table{width:100%; margin-top:10px; border-collapse:collapse; border-spacing:0; border:0; border-top:1px solid #e1e1e1;text-align:left;}
+.table04a table tbody th{height:36px;background:#f6fafc;color:#333;font-size:13px;padding-left:14px;border-bottom:1px solid #e1e1e1;border-left:1px solid #e1e1e1;text-align:left;}
+
+.table04a table tbody .edu-account {background:#EFEFEF;}
+
+.table04a table tbody th:first-child{border-left:0;}
+.table04a table tbody th.left_bd{border-left:1px solid #e1e1e1;}
+.table04a table tbody td{line-height:18px;font-size:13px;padding:7px 5px;border-bottom:1px solid #e1e1e1;border-left:1px solid #e1e1e1;text-align:left;}
+.table04a table tbody td:first-child{border-left:0;}
+.table04a table tbody td.left_bd{border-left:1px solid #e1e1e1;}
+.table04a table tbody td input{height:24px; /*border:1px solid #e2e2e2;*/ padding-left:5px;}
+.table04a table tbody td select{height:26px;border:1px solid #e2e2e2;}
+.table04a table tbody td textarea{height:106px;border:1px solid #e2e2e2;}
+
+
+.skip{width:0; height:0; line-height:0; font-size:0; margin:0; padding:0; overflow:hidden; display:none; visibility:hidden; position:absolute; z-index:-1; top:-3000px;}
+
+
+
+/* 추가  */
+.tr_bg {border-top: 1px solid #e1e1e1;}
+/* 팝업창 */
+
+span.center  { margin-left:200px; border-bottom:none;}
+
+
+/* 게시판 카테고리*/
+
+.mn_table3 {height: 50px; text-align: center; color: #2a2a2a; font-size: 18px;}
+.mn_table3 table {width:100%; border-collapse:collapse; border-spacing:0; border:0;}	
+.mn_table3 tr td a {float: left; color: #2a2a2a; width: 100%; height: 30px; font-family: "나눔고딕"; font-size: 14px; line-height: 28px; font-weight: bold;}
+.mn_table3 tr td a:hover {color: #fff; width: 100%; height: 30px; background-color: #237ccc; font-weight: bold;}
+.mn_table3 tr td a.on {background-color: #237ccc;color: #fff;font-weight: bold;}
+.mn_table3 tr td {border: 1px solid #ddd; height: 30px; color: #2a2a2a; width: 20%; line-height: 30px;}
+
+/* 2017 04 */
+.btn_apply.one, .btn_end.one {margin-right:0;}
+.btn_apply.one.long {width:60px;}
+.btn_apply.one.line2 {height:35px; line-height:15px; padding-top:5px;}
+
+.nomem_pop_box {width:650px;}
+.new_pop_tit {margin-bottom:30px; padding-bottom:5px; border-bottom:2px solid #0079c8; color:#333; font-size:1.66em; font-weight:bold;}

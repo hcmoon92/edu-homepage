@@ -1,0 +1,318 @@
+
+<!doctype html>
+<html lang="ko">
+<head>
+ <meta charset="UTF-8">
+ <meta name="Generator" content="EditPlus®">
+ <meta name="Author" content="">
+ <meta name="Keywords" content="">
+ <meta name="Description" content="">
+ <title>메일발송폼 - 표3</title>
+</head>
+<body>
+ <table width="800" style='margin: 0px auto; font-family: "Malgun Gothic","맑은 고딕", sans-serif; border-collapse: collapse; border-spacing: 0;'>
+  <tbody><tr>
+   <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170324&physical=0A7D91DDF31A4E1AB348053FFD6FCDEC&contentType=image/jpeg.jpg") no-repeat; padding: 0px; height: 99px; margin-bottom: -4px; display: block;'>
+    <table width="100%" style="height: 100%; border-collapse: collapse; border-spacing: 0;">
+     <tbody><tr>
+      <td style="width: 300px;"></td>
+      <td style="color: rgb(255, 255, 255); font-weight: bold;">https://edu.tta.or.kr</td>
+      <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170324&physical=DB230AA2290A44C1B0DFF009D6D570B4&contentType=image/png") no-repeat 0px; margin: auto; width: 92px; height: 72px; color: rgb(255, 255, 255); padding-left: 12px; font-size: 17px; font-weight: bold; vertical-align: middle;'>3~5월</td>
+     </tr>
+    </tbody></table>
+   </td>
+  </tr>           
+  <tr>
+   <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=E9737EEEF044472989BB24B4FD195024&contentType=image/jpeg") no-repeat; height: 315px; color: rgb(255, 255, 255); padding-left: 415px; font-size: 36px; font-weight: bold;'>사물인터넷(IoT)<br>비지니스 및 기술개발<br>교육안내<br><span style="font-size: 18px;">※ 협회 회원사는 교육비 무료</span></td>
+  </tr>
+ </tbody></table>
+
+ <table width="800" style='margin: 0px auto 40px; font-family: "Malgun Gothic","맑은 고딕", sans-serif; border-collapse: collapse; border-spacing: 0;'>
+  <tbody><tr>
+   <td style="padding: 0px; width: 25px;"></td>
+   <td>
+    <table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
+     <tbody><tr>
+      <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=B3DC07D55EE44A2B9C17ED4D39366082&contentType=image/jpeg") no-repeat 0px 34px; padding: 30px 0px 20px 30px; height: 21px; color: rgb(51, 51, 51); font-size: 22px; font-weight: bold; vertical-align: baseline;'>교육과정 및 내용</td>
+     </tr>
+     <!-- 표 부분 -->
+     <tr>
+      <td style="padding-top: 1px;">
+       <table style="width: 100%; text-align: center; line-height: 1.4; font-size: 13px; border-collapse: collapse; -ms-word-break: keep-all; border-spacing: 0; background-color: rgb(255, 255, 255);">
+        <thead style="color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; background-color: rgb(81, 92, 117);">
+         <tr>
+          <th style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=39EF4456576D40E480909087D975D3D0&contentType=image/jpeg"); padding: 10px 0px; width: 10%; border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid;'>구분</th>
+          <th style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=39EF4456576D40E480909087D975D3D0&contentType=image/jpeg"); padding: 10px 0px; width: 18%; border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid;'>교육과정명</th>
+          <th style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=39EF4456576D40E480909087D975D3D0&contentType=image/jpeg"); padding: 10px 0px; width: auto; border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid;'>주요 교육내용</th>
+          <th style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=39EF4456576D40E480909087D975D3D0&contentType=image/jpeg"); padding: 10px 0px; width: 11%; border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid;'>교육일수<br>(1일 8시간)</th>
+          <th style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=39EF4456576D40E480909087D975D3D0&contentType=image/jpeg"); padding: 10px 0px; width: 15%; border-right-color: rgb(255, 255, 255); border-right-width: 1px; border-right-style: solid;'>교육기간</th>
+          <th style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=39EF4456576D40E480909087D975D3D0&contentType=image/jpeg"); padding: 10px 0px; width: 12%;'>교육장소</th>
+         </tr>
+        </thead>
+        <tbody>
+         <tr>
+          <th style="color: rgb(42, 51, 72); font-size: 15px; background-color: rgb(197, 204, 220);" rowspan="3">IoT<br>서비스</th>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">사물인터넷 사업 전략 개발을 위한 디자인 씽킹 역량 강화</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - IoT 비지니스를 위한 디자인씽킹 이해<br>
+           - 디자인씽킹 기반 IoT 비지니스모델 BPR 등<br>
+           <span style="color: rgb(121, 121, 121);">※ 디자인씽킹 : 새로운 기회를 찾기 위한 문제 해결 프로세스</span>
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           3일<br>(24시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           <span style="font-weight: bold;">1차 : </span>
+           3.20(월) ~ 3.22(수)<br>
+           <span style="font-weight: bold;">2차 : </span>
+           5.29(월) ~ 5.31(수)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">스마트 센서를 활용한 사물인터넷 제품 서비스 기획</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           -스마트 센서 개요 및 동향<br>
+           -사물인터넷 응용 분야별 스마트 센서 적용사례 분석등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           2일<br>(16시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           3.23(목) ~ <br>
+           3.24(금)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">사물인터넷 비즈니스 사례분석을 통한 사업화 전략 수립</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 사물인터넷 구현 기술, 밸류체인별 비즈니스 사례<br>
+           - 사물인터넷 비즈니스 접근법 및 전략 분석등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           3일<br>(24시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4.21(금)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         
+         <tr>
+          <th style="color: rgb(42, 51, 72); font-size: 15px; border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid; background-color: rgb(197, 204, 220);" rowspan="3">IoT<br>플랫폼</th>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">라즈베리파이 오픈소스 플랫폼 제어</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 라즈베리파이 셋업, 업무용 애플리케이션 및 웹서버 구축<br>
+           - 프로그래밍 및 하드웨어 응용 실습 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           1일<br>(8시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4.3(월) ~ 4.5(수)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">사물인터넷 오픈 플랫폼을 활용한 클라우드 컴퓨팅 구현</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 사물인터넷 클라우드 서비스 개발 방법 및 기술<br>
+           - 클라우드 컴퓨팅 환경 구축 실습 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           3일<br>(24시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4.18(화) ~ <br>
+           4.20(목)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">SKT 교육장<br>(을지로)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">loT 응용서비스 개발을 위한 개방형 플랫폼 활용</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 개방형 사물인터넷 플랫폼 활용 응용 서비스 소개 및 시연<br>
+           - 사물인터넷 디바이스 및 응용 서비스 앱 개발 실습 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           3일<br>(24시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4.24(월) ~ 4.25(화)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         
+         <tr>
+          <th style="color: rgb(42, 51, 72); font-size: 15px; border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid; background-color: rgb(197, 204, 220);">IoT<br>네트워크</th>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">사물인터넷 무선 네트워크 구축 실습</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 사물인터넷 무선통신 기술 개요<br>
+           - SUN·LECIM 보드를 이용한 무선 센서네트워크 구축 실습 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           2일<br>(16시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           5.18(목) ~ 5.19(금)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">SKT 교육장<br>(을지로)</td>
+         </tr>
+         
+         <tr>
+          <th style="color: rgb(42, 51, 72); font-size: 15px; border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid; background-color: rgb(197, 204, 220);">IoT<br>디바이스</th>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">오픈소스 하드웨어를 활용한 사물인터넷 디자이스 개발</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 오픈소스 센서 하드웨어 활용 실습<br>
+           - 스마트 도시 구현을 위한 디바이스 및 플랫폼 연동 실습 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           2일<br>(16시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           <span style="font-weight: bold;">2차 : </span>
+           3.13(월) ~ 3.14(화)<br>
+           <span style="font-weight: bold;">3차 : </span>
+           5.22(월) ~ 5.23(수)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         <tr>
+          <th style="color: rgb(42, 51, 72); font-size: 15px; border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid; background-color: rgb(197, 204, 220);" rowspan="5">IoT<br>+<br>빅데이터</th>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;" rowspan="2">빅데이터 분석 구현 및 사물인터넷 애플리케이션 개발</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;" rowspan="2">
+           - 센서 제어 및 데이터 분석<br>
+           - 빅데이터 분석 구현 및 애플리케이션 개발 실습 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;" rowspan="2">
+           3일<br>(24시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           <span style="font-weight: bold;">1차 : </span>
+           3.27(월) ~ 3.29(수)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           <span style="font-weight: bold;">2차 : </span>
+           5.24(수) ~ 5.26(금)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">SKT 교육장<br>(을지로)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">사물인터넷 센싱 데이터 처리 플랫폼 구축 실습 </td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 실시간 데이터 처리 기술 및 방법<br>
+           - 스트리밍 데이터 분석 기술, 센서 데이터 활용 비즈니스 전략 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4일<br>(32시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4.11(화) ~ <br>
+           4.14(금)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">오픈소스 통계 툴(R) 기반 빅데이터 분석 실무(초급)</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 오픈소스 통계 툴(R) 및 기초 통계 이해<br>
+           - 기계학습 이론 및 알고리즘 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4일<br>(32시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           4.17(월) ~ 4.20(목)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">협회 교육장<br>(잠실동)</td>
+         </tr>
+         <tr>
+          <td style="padding: 20px 8px; text-align: left; color: rgb(0, 0, 0); font-weight: bold; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">오픈소스 통계 툴(R) 기반 머신러닝 실습</td>
+          <td style="padding: 20px 8px; text-align: left; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           - 통계적 모델링, 시각화와 모델링 연계 학습<br>
+           - 공간 데이터 이해, Time-Series data 분석 등
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           3일<br>(24시간)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">
+           5.15(월) ~ 5.17(수)
+          </td>
+          <td style="padding: 20px 8px; border-bottom-color: rgb(176, 176, 176); border-left-color: rgb(176, 176, 176); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid;">SKT 교육장<br>(을지로)</td>
+         </tr>
+        </tbody>
+       </table>
+      </td>
+     </tr>
+     <!-- // 표 부분 -->
+     <tr>
+      <td style="padding: 10px 0px 30px; color: rgb(0, 0, 0); font-size: 14px;">※ 사정에 따라 교육내용 및 일정은 일부 변경될 수 있음</td>
+     </tr>
+     <tr>
+      <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=59C345C22F9A494FAC6D92B8AAA22EA2&contentType=image/png") repeat-x; height: 7px; padding-bottom: 10px; display: block;'></td>
+     </tr>
+     <!-- 교육대상, 수강료, 제공사항, 교육장소, 문의처 -->
+     <tr style="display: block;">
+      <td style="padding: 0px 0px 25px;">
+       <table width="100%">
+        <tbody>
+         <tr>
+          <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170324&physical=ADCA5F44ACB94B0F89CAD0389BBDD375&contentType=image/png") no-repeat 0px 7px; padding: 0px 0px 0px 20px; text-align: justify; color: rgb(0, 89, 175); font-size: 18px; font-weight: bold; vertical-align: top;'>
+           교육 대상
+          </td>
+          <td style="font-size: 16px; vertical-align: top;"><span style="color: rgb(254, 14, 82);">재직자에 한함</span> (고용보험 가입 재직자 및 협회와 교육협약 체결기업의 임직원)<br></td>
+         </tr>
+         <tr>
+          <td>&nbsp;</td>
+          <td style="font-size: 16px;">※ 협약체결기업 확인 및 협약체결 관련 내용은 홈페이지 (http://champ.kiot.or.kr) 참조</td>
+         </tr>
+         <tr>
+          <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170324&physical=ADCA5F44ACB94B0F89CAD0389BBDD375&contentType=image/png") no-repeat 0px 7px; text-align: justify; color: rgb(0, 89, 175); padding-left: 20px; font-size: 18px; font-weight: bold; vertical-align: top;'>
+           수 강 료
+          </td>
+          <td style="font-size: 16px; vertical-align: top;">1일당 2만원 (한국사물인터넷협회 회원사 임직원 무료)</td>
+         </tr>
+         <tr>
+          <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170324&physical=ADCA5F44ACB94B0F89CAD0389BBDD375&contentType=image/png") no-repeat 0px 7px; text-align: justify; color: rgb(0, 89, 175); padding-left: 20px; font-size: 18px; font-weight: bold;'>
+           제공 사항
+          </td>
+          <td>중식, 교재, 수료증(수료생에 한함)</td>       
+         </tr>
+         <tr>
+          <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170324&physical=ADCA5F44ACB94B0F89CAD0389BBDD375&contentType=image/png") no-repeat 0px 7px; text-align: justify; color: rgb(0, 89, 175); padding-left: 20px; font-size: 18px; font-weight: bold;'>
+           교육 장소
+          </td>
+          <td>&nbsp;</td>      
+         </tr>
+         <tr>
+          <td style="padding-left: 20px; font-size: 16px;" colspan="2">
+           협회 교육장 (서울 송파구 올림픽로82 현대빌딩 10층 : 9호선 종합운동장역 9번출구 또는 2호선 잠실새내역 4번출구에서 SKT 교육장 (서울 중구 을지로 2가 15번지 삼화인쇄빌딩 3층 : 2호선 을지로 입구역 4번 출구에서 도보 1분)
+          </td>        
+         </tr>
+         <tr>
+          <td style='background: url("https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170324&amp;physical=ADCA5F44ACB94B0F89CAD0389BBDD375&amp;contentType=image/png") no-repeat 0px 7px; padding: 0px 0px 0px 20px; text-align: justify; color: rgb(0, 89, 175); font-size: 18px; font-weight: bold;'>
+           문 의 처
+          </td>
+          <td>한국사물인터넷협회 인력양성&nbsp;&nbsp;<img alt="전화" src="https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=43EB8151A8484F8FBBB434FC40DA65FA&contentType=image/png"> 02-3453-1480&nbsp;&nbsp;<img alt="메일" src="https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170327&physical=AA4B1CCED9994D73B3BFF39F508869A2&contentType=image/png"> edu7@tta.or.kr</td>
+         </tr>
+        </tbody>
+       </table>
+      </td>
+     </tr>
+     <!-- // 교육대상, 수강료, 제공사항, 교육장소, 문의처 -->
+     <tr>
+      <td style="padding: 15px 0px; text-align: center; font-size: 13px; background-color: rgb(237, 237, 237);">이메일의 수신을 더 이상 원하지 않으시면 <a style="color: rgb(0, 84, 187); font-weight: bold; text-decoration: none;" href="#">[수신거부]</a>를 클릭해 주시기 바랍니다.<br> 
+      To unsubscribe <a style="color: rgb(0, 84, 187); font-weight: bold; text-decoration: none;" href="#">click here.
+      </a></td>
+     </tr>
+    </tbody></table>
+   </td>
+   <td style="padding: 0px; width: 25px;"></td>
+  </tr>
+ </tbody></table>
+
+</body></HTML>

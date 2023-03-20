@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/ttaedu/eduIct/index.js"],"names":["eduIct","props"],"mappings":"6KAAA,wBAMeA,UAJA,SAACC,GACZ,OAAO","file":"static/js/52.e6bc2261.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst eduIct = (props) => {\r\n    return <div>edu ICT</div>;\r\n};\r\n\r\nexport default eduIct;"],"sourceRoot":""}

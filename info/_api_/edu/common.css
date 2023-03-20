@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+/* default */
+* { margin:0; padding:0; /*
+font:normal 13px/1.4 '나눔고딕',nanumgothic,'Malgun Gothic',맑은고딕,MalgunGothic,돋움,Helvetica,Arial,AppleGothic ;*/
+font-size: 13px;
+line-height: 1.4;
+font-family: 나눔고딕, nanumgothic, "Malgun Gothic", 맑은고딕, MalgunGothic, 돋움, Helvetica, Arial, AppleGothic;
+color:#666;}
+
+body {}
+ul, ol, li { list-style:none; }
+hr, legend { display:none; }
+em, address { font-style:normal; }
+/* table { border-collapse:collapse; border-spacing:0; border:0; } */
+a { color:#666666; text-decoration:none;}
+img {border:none;}
+.hide {position:absolute; left:-9999px; overflow:hidden; width:1px; height:1px; line-height:1px; font-size:1px;}
+caption {position:static; overflow:hidden; width:1px; height:1px; margin:0; padding:0; font-size:1px; text-indent:-9999px;}
+.clearfix:after {content:""; display:block; width:0; height:0; font-size:0; clear:both;}
+
+button { margin:0; padding:0; border:0; font:inherit; color:inherit; background:transparent; overflow:visible; cursor:pointer; line-height:1; }
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
+abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small,
+strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label,
+legend, caption, article, aside, hgroup, header, footer, figure, figcaption, nav, section { margin:0; padding:0; border:0;}
+input[type=text], input[type=password], select { height:22px; border:solid 1px #d1d1d1; padding-left:2px; padding-right:2px;}
+select { height:26px; }
+
+/* hide */
+.remove { display:none; }
+
+#container {position: relative;}
+#container, .container { width:1140px; margin:0 auto; }
+#container:after {content:""; display:block; width:0; height:0; font-size:0; clear:both;}
+#container #content { float: left; width: 100%;margin-bottom: 15px; }
+#container #container-left {float:left; width: 239px; margin-right:10px;}
+
+
+/* 유틸 토탈 */
+#header #hd-top-total {float:right; width:170px; text-align:center; margin-top: 34px; margin-left:15px; border:solid 1px #cfcfcf;  background-color:#e5eff4;}
+#header #hd-top-total .point { color:#11478c; font-weight:bold; }
+
+.hasDatepicker {background:url('../../../images/egovframework/tta/sub/btn_cal.gif') no-repeat 85px 4px; cursor:pointer; width: 100px; height: 24px;}
+
+/* 글 말 줄이기 */
+.subject_lessen {line-height: 180%;}
+.subject_lessen {float: left; display: block; overflow: hidden; width: 360px; white-space: nowrap; text-overflow: ellipsis;}
+
+#cke_166_uiElement {
+    position: absolute;
+    top: 353px;
+}
+
+/* 2017-04 */
+.edit_init_style {color:#000;}
+.edit_init_style * {color:inherit; font-size:inherit; font-family:inherit; line-height:inherit;}
+.edit_init_style ul, .edit_init_style ul > li {list-style: disc outside none;}
+.edit_init_style ul, .edit_init_style ol {padding-left:17px;}
+.edit_init_style ol, .edit_init_style ol > li {list-style: decimal outside none;}
+.edit_init_style table, .tbl_type .edit_init_style td {padding:initial; color:inherit;}
+.tbl_type .edit_init_style th {padding:initial; border:initial; color:inherit; font-size:inherit; font-weight:initial; text-align:inherit;}

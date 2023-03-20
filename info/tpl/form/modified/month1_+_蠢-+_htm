@@ -1,0 +1,404 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ko">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>메일발송폼 - 표4</title>
+<!-- head안 태그는 로딩되지않는다, quirks모드 이기 때문에 -->
+</head>
+<body>
+	<table cellpadding="0" cellspacing="0" border="0"  style="width:662px; margin:0 auto; font-family:'Malgun Gothic','맑은 고딕', sans-serif;  padding:0; border-spacing:0;">
+		<tbody >
+			<tr>
+				<td colspan="2" style="padding:0;">
+					<table cellpadding="0" cellspacing="0" border="0" style="width:660px; height:80px; border-spacing:0; background-color:#1b3b92; background-repeat:no-repeat; background-image:url('images/month1_bg1.jpg');">
+						<tr style="padding:0 10px">
+							<td style="padding-left:20px; color:#fff; font-size:31px; font-weight:bold">TTA아카네미</td>
+							<td style="color:#fff; font-size:14px; ">ICT 표준기술 보급 및 품질 전문 인력 양성기관</td>
+							<td style="color:#70a9ff; font-size:35px; font-weight:bold;">8-9 <span style="font-size:15px">월호</span></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" style="padding:0; height:5px"></td>
+			</tr>
+			<tr style="width:660px;">
+				<td style="padding:0; vertical-align:top;"><img src="https://edu.tta.or.kr/utl/web/imageSrc.do?path=20170420&physical=255B3C3C448947099526F754D8B54540&contentType=image/jpeg" alt="tta아카데미 이미지" style="border:0 none; vertical-align:top"></td>
+				<td style=" padding:0; vertical-align:top; background-color:#1c222e; background-repeat:no-repeat; background-image:url(images/month_img8.png); background-position:right top;">
+					<table style="border-spacing:0;  font-family:'Malgun Gothic','맑은 고딕', sans-serif; padding:0; border-collapse:collapse;  ">
+						<tr>
+							<td colspan="2" style="height:20px; padding:0;"></td>
+						</tr>
+						<tr>
+							<td style="width:20px; padding:0;"></td>
+							<td style="padding:0;">
+								<table border="0" cellpadding="0" cellspacing="0" style="width:100%; border-collapse:collapse; font-family:'Malgun Gothic','맑은 고딕', sans-serif; line-height:1.5;">
+									<tr>
+										<td style="width:25%; padding:3px 4px; background-color:#f36523; color:#fff; font-size:14px; text-align:center;">신규개설</td>
+										<td style="width:auto; padding:0;">&nbsp;</td>										
+									</tr>
+									<tr>
+										<td colspan="2" style="height:10px; padding:0;"></td>
+									</tr>
+									<tr>
+										<td colspan="2" style="font-size:26px; font-weight:bold; color:#00a8ea;padding:0;">SW 품질 전문가 교육</td>
+									</tr>	
+									<tr>
+										<td colspan="2" style="height:10px; padding:0;"></td>
+									</tr>
+									<tr>
+										<td colspan="2" style="font-size:13px; color:#ffdc01">SW 품질관리와 품질 보증 활동에 요구되는 전문지식과 품질 평가를 위한 품질 메트릭에 대한 기본지식을 습득 할 수 있는 교육과정</td>
+									</tr>
+									<tr>
+										<td colspan="2" style="height:10px; padding:0;"></td>
+									</tr>
+									<tr>
+										<td colspan="2" style="font-size:13px; color:#fff">일정 <span style="display:inline-block; padding:0 4px;">l</span> 8월 29일(월) ~ 30일(화) 2일간</td>
+									</tr>
+									<tr>
+										<td colspan="2" style="font-size:13px; color:#fff">장소 <span style="display:inline-block; padding:0 4px;">l</span> 한국정보통신기술협회 9층 교육장</td>
+									</tr>
+									<tr>
+										<td colspan="2" style="font-size:13px; color:#fff">등록기간 <span style="display:inline-block; padding:0 4px;">l</span> 8월 1일(월) ~ 8월 24일(수)</td>
+									</tr>
+									<tr>
+										<td colspan="2" style="font-size:13px; color:#fff">교육비 <span style="display:inline-block; padding:0 4px;">l</span> 일반30만원, 학생24만원(교재 및 증식포함)</td>
+									</tr>
+									<tr>
+										<td colspan="2" style="font-size:13px; color:#fff">문의처 <span style="display:inline-block; padding:0 4px;">l</span> 031-704-3986, cc_edu@tta.or.kr</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2" style="height:10px;"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:40px;"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="background-color:#f0f0f0; border:1px solid #c1c1c1;">
+					<table cellpadding="0" cellspacing="0" border="0" style="border-spacing:0; width:100%; border-collapse:collapse; font-family:'Malgun Gothic','맑은 고딕', sans-serif; ">
+						<tr>
+							<td style="width:12px;"></td>
+							<td>
+								<table style="width:100%; border-spacing:0; border-collapse:collapse; font-family:'Malgun Gothic','맑은 고딕', sans-serif; ">
+									<tr>
+										<td colspan="2" style="padding:0; height:20px;"></td>
+									</tr>
+									<tr>
+										<td colspan="2" style="padding:0 0 10px; color:#00717b; font-size:42px; font-weight:bold">교육 <span style="font-size:16px;		font-weight:normal;">Education</span></td>
+									</tr>
+									<tr>
+										<td style="width:50%; background-color:#569e97; vertical-align:top; padding:0;">											
+											<table cellpadding="0" cellspacing="0" border="0" style="width:100%; border-spacing:0; font-family:'Malgun Gothic','맑은 고딕', sans-serif;">
+												<tr>
+													<td style="height:20px" colspan="3"></td>
+												</tr>
+												<tr>
+													<td style="width:12px;"></td>
+													<td style="padding:0;">
+														<table cellpadding="0" cellspacing="0" border="0" style="border-spacing:0; font-family:'Malgun Gothic','맑은 고딕', sans-serif; width:100%; line-height:1.5;">
+															<tr>
+																<td style="padding:0; "><img src="images/month_img2.jpg" alt="교육이미지" style="width:100%; vertical-align:top;"></td>
+															</tr>
+															<tr>
+																<td style="height:10px"></td>
+															</tr>
+															<tr>
+																<td style="color:#fff; padding:0;">SW 테스트 전문가 양성교육(일반)</td>
+															</tr>
+															<tr>
+																<td style="height:10px"></td>
+															</tr>
+															<tr>
+																<td style="font-size:13px; padding:0;  color:#fff">일정 <span style="display:inline-block; padding:0 4px;">l</span> 8월 17일(월) ~ 19일(화) 2일간</td>
+															</tr>
+															<tr>
+																<td style="font-size:13px; padding:0; color:#fff">장소 <span style="display:inline-block; padding:0 4px;">l</span> 한국정보통신기술협회 9층 교육장</td>
+															</tr>
+															<tr>
+																<td style=" padding:0; font-size:13px; color:#fff">등록기간 <span style="display:inline-block; padding:0 4px;">l</span> 7월 18일(월) ~ 8월 10일(수)</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; color:#fff">교육비 <span style="display:inline-block; padding:0 4px;">l</span> 일반25만원, 학생20만원(교재 및 증식포함)</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; color:#fff">문의처 <span style="display:inline-block; padding:0 4px;">l</span> 031-724-4639, sw_edu@tta.or.kr</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; font-weight:bold;  color:#fffc00">※ 사업주 훈련과정으로 교육비 일부 지원(환급)</td>
+															</tr>
+														</table>
+													</td>
+													<td style="width:12px;"></td>
+												</tr>
+											</table>
+										</td>
+										<td style="background-color:#fff; padding:0; vertical-align:top">
+											<table width="100%" style=" border-spacing:0; font-family:'Malgun Gothic','맑은 고딕', sans-serif; line-height:1.5;">
+												<tr>
+													<td colspan="3" style="height:20px;"></td>
+												</tr>
+												<tr>
+													<td style="width:12px;"></td>
+													<td>
+														<table style=" border-spacing:0; font-family:'Malgun Gothic','맑은 고딕', sans-serif; padding:0;">
+															<tr>
+																<td style="font-size:18px; font-weight:bold; padding:0;">CC평가 제출물 작성 교육</td>
+															</tr>
+															<tr>
+																<td><img src="images/month_img3.jpg" alt="제출물 작성교육1" style="vertical-align:middle; padding-right:20px"><img src="images/month_img4.jpg" alt="제출물 작성교육2" style=" ;vertical-align:middle"></td>
+															</tr>
+															<tr>
+																<td style="height:20px;"></td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; color:#323232">일정 <span style="display:inline-block; padding:0 4px;">l</span> 9월 26일(월) ~ 29일(수) 3일간</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; color:#323232">장소 <span style="display:inline-block; padding:0 4px;">l</span> 한국정보통신기술협회 9층 교육장</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; color:#323232">등록기간 <span style="display:inline-block; padding:0 4px;">l</span> 9월 1일(목) ~ 21일(수)</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; color:#323232">교육비 <span style="display:inline-block; padding:0 4px;">l</span> 일반25만원, 학생20만원(교재 및 증식포함)</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; color:#323232">문의처 <span style="display:inline-block; padding:0 4px;">l</span> 031-704-3986, sw_edu@tta.or.kr</td>
+															</tr>
+															<tr>
+																<td style="padding:0; font-size:13px; font-weight:bold; color:#cc0600">※ 사업주 훈련과정으로 교육비 일부 지원(환급)</td>
+															</tr>	
+															<tr>
+																<td style="height:20px;"></td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+												<tr>
+													<td colspan="3" style="height:20px;"></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td colspan="2" style="height:20px"></td>
+									</tr>
+								</table>
+							</td>
+							<td style="width:12px;"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:10px"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:1px; background:url(images/month_dotted.png) repeat-x center center">&nbsp; </td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:10px"></td>
+			</tr>
+			<tr style="background-color:#0497a4">
+				<td colspan="2">
+					<table style="border-spacing:0; width:100%;">
+						<tr>
+							<td colspan="3" style="height:20px;"></td>
+						</tr>
+						<tr>
+							<td style="width:12px"></td>
+							<td>
+								<table border="0" cellpadding="0" cellspacing="0"  style="width:100%; border-spacing:0; padding:0; border-collapse:collapse; font-family:'Malgun Gothic','맑은 고딕', sans-serif line-height:1.5;;">
+									<tr>
+										<td colspan="2" style="font-size:42px; font-weight:bold; color:#fff;">세미나 <span style="font-size:16px; font-weight:normal">Seminar</span></td>
+									</tr>
+									<tr>
+										<td colspan="2" style="height:10px;"></td>
+									</tr>
+									<tr>
+										<td style="width:50%; background-color:#fff; padding:0; vertical-align:top; padding-left:15px;">
+											<table style="width:100%; border-spacing:0; border-collapse:collapse; font-family:'Malgun Gothic','맑은 고딕', sans-serif;">
+												<tr>
+													<td colspan="3" style="height:20px"></td>
+												</tr>
+												<tr>
+													<td style="width:12px; padding:0;"></td>
+													<td style="padding:0;">
+														<table cellpadding="0" cellspacing="0" border="0" style="width:100%; border-spacing:0; border-collapse:collapse; line-height:1.5;">
+															<tr>
+																<td style="font-weight:bold; color:#323232">
+																	5G New Radio Enabling<br>
+																	Technology in 3GPP Standard<br>
+																	: Oversea Player’s view											
+																</td>
+															</tr>
+															<tr>
+																<td style="padding:0;"><img src="images/month1_bg2.jpg" alt="세미나 배경" style="vertical-align:top; border:0 none;"></td>
+															</tr>
+															<tr>
+																<td style="font-size:13px;  color:#323232">일정 <span style="display:inline-block; padding:0 4px;">l</span> 9월 7일(수)</td>
+															</tr>
+															<tr>
+																<td style="font-size:13px; color:#323232">장소 <span style="display:inline-block; padding:0 4px;">l</span> 한국정보통신기술협회 9층 회의실</td>
+															</tr>
+															<tr>
+																<td style="font-size:13px; color:#323232">등록기간 <span style="display:inline-block; padding:0 4px;">l</span> 8월 8일(월) ~ 9월2일(금)</td>
+															</tr>
+															<tr>
+																<td style="font-size:13px; color:#323232">참가비 <span style="display:inline-block; padding:0 4px;">l</span> 비회원사 15만원, 회원사 12만원<br>
+																학생 9만원(사전등록기준, 교재 및 중식포함)</td>
+															</tr>
+															<tr>
+																<td style="font-size:13px; color:#323232">문의처 <span style="display:inline-block; padding:0 4px;">l</span> 031-704-1691, stu_edu@tta.or.kr</td>
+															</tr>
+															<tr>
+																<td style="padding:10px 0px; font-size:13px; font-weight:bold; color:#cc0600">※ 사업주 훈련과정으로 교육비 일부 지원(환급)</td>
+															</tr>
+														</table>
+													</td>
+													<td style="width:12px; padding:0;"></td>
+												</tr>
+												<tr>
+													<td colspan="3" style="height:20px"></td>
+												</tr>
+											</table>
+										</td>
+										<td style="vertical-align:top; background-color:#e0e0e0; padding:0;">
+											<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; font-family:'Malgun Gothic','맑은 고딕', sans-serif; line-height:1.5;">
+												<tr>
+													<td><img src="images/month_img5.jpg" alt="세마나 사진" style="width:100%"></td>
+												</tr>
+												<tr>
+													<td style="padding:15px 10px 10px 15px; color:#323232; font-size:18px; font-weight:bold; font-weight:bold">가상현실과 홀로그래피로 알아보는 미래영상기술 세미나</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 15px; font-size:13px; color:#323232">일정 <span style="display:inline-block; padding:0 4px;">l</span> 8월 25일(금)</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 15px; font-size:13px; color:#323232">장소 <span style="display:inline-block; padding:0 4px;">l</span> 한국정보통신기술협회 9층 회의실</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 15px; font-size:13px; color:#323232">등록기간 <span style="display:inline-block; padding:0 4px;">l</span> 7월 22일(금) ~ 8월22일(월)</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 15px; font-size:13px; color:#323232">참가비 <span style="display:inline-block; padding:0 4px;">l</span> 비회원사 15만원, 회원사 12만원<br>
+													학생 9만원(사전등록기준, 교재 및 중식포함)</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 15px; font-size:13px; color:#323232">문의처 <span style="display:inline-block; padding:0 4px;">l</span> 031-704-1691, stu_edu@tta.or.kr</td>
+												</tr>
+												<tr>
+													<td style="padding:10px 15px; font-size:13px;color:#14318e">※ 사업주 훈련과정으로 교육비 일부 지원 (환급)</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+							<td style="width:12px;"></td>
+						</tr>
+						<tr>
+							<td colspan="3" style="height:20px;"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:20px;"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:1px; background:url(images/month_dotted2.png) repeat-x center center;"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:20px;"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="border:1px solid #c1c1c1">
+					<table cellpadding="0" cellspacing="0" border="0" style="width:100%; border-spacing:0;  background-color:#f0f0f0; font-family:'Malgun Gothic','맑은 고딕', sans-serif;">
+						<tr>
+							<td colspan="3" style="height:20px;"></td>
+						</tr>
+						<tr>
+							<td style="width:12px;"></td>
+							<td>
+								<table cellpadding="0" cellspacing="0" border="0" style="width:100%; border-spacing:0; border-collapse:collapse; font-family:'Malgun Gothic','맑은 고딕', sans-serif;">
+									<tr>
+										<td style="padding-bottom:10px; font-size:42px; font-weight:bold; color:#906721;">자격 <span style="font-size:16px; font-weight:normal">Qualification</span></td>
+									</tr>
+									<tr>
+										<td style="width:50%; padding:0 ; border:1px solid #c1c1c1; padding:0;">
+											<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; width:100%; border-spacing:0;">
+												<tr>
+													<td style="padding:30px 16px; text-align:center; background-color:#fff"><img src="images/month_img6.jpg" alt="csts" style="vertical-align:top; border:0 none;"></td>
+												</tr>
+											</table>
+										</td>
+										<td style="background-color:#91723d; padding:0; ">
+											<table>
+												<tr>
+													<td style="padding:0px 10px 12px 10px; color:#fff">SW 테스트 전문가 일반자격</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 10px; font-size:13px; color:#fff">시험일자 <span style="display:inline-block; padding:0 4px;">l</span> 8월 19일(금)</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 10px; font-size:13px; color:#fff">장소 <span style="display:inline-block; padding:0 4px;">l</span> 한국정보통신기술협회 9층 시험장</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 10px; font-size:13px; color:#fff">등록기간 <span style="display:inline-block; padding:0 4px;">l</span> 7월 18일(월) ~ 8월10일(수)</td>
+												</tr>
+												<tr>
+													<td style="padding:0px 10px; font-size:13px; color:#fff">문의처 <span style="display:inline-block; padding:0 4px;">l</span> 031-724-0224, csts@tta.or.kr</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+							<td style="width:12px"></td>
+						</tr>
+						<tr>
+							<td colspan="2" style="height:20px;"></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" style="height:20px;"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="padding:20px 35px; background-color:#928ec1;">
+					<table cellpadding="0" cellspacing="0" border="0"  style="width:100%; font-family:'Malgun Gothic','맑은 고딕', sans-serif; border-spacing:0; line-height:1.5;">
+						<tr>
+							<td style="width:113px;"><img src="images/month1_bg3.png" alt="컴퓨터" /></td>
+							<td  style="color:#fff; font-weight:bold; font-size:20px;">
+								IT품질 전문인력 육성 컨소시엄 협약기업 모집<br>
+								<span style="display:block; margin-top:15px; font-size:13px; font-weight:normal; ">TTA는 산업계 ICT 제품 및 서비스 품질경쟁력 제고를 목적으로 ‘국가인적자원개발컨소시엄
+								사업’ 운영기관 지정을 위해 협약기업을 모집하고 있습니다. 소속 근로자의 IT품질 전문역량
+								향상 및 무상교육 참여를 희망하는기업의 많은 관심과 참여를 부탁드립니다. </span>
+							</td>
+						</tr>
+					</table>
+				</td>	
+			</tr>
+			<tr>
+				<td colspan="2" style="height:8px;"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="padding:15px 0; background-color:#ededed; text-align:center; font-size:13px; font-family:'Malgun Gothic','맑은 고딕', sans-serif;">이메일의 수신을 더 이상 원하지 않으시면 <a href="#"  style="color:#0054bb; font-weight:bold; text-decoration:none; ">[수신거부]</a>를 클릭해 주시기 바랍니다.<br> 
+				To unsubscribe <a href="#"  style="color:#0054bb; font-weight:bold; text-decoration:none; ">click here.</a>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" style="padding:25px 0; text-align:center"><img src="images/month_img7.jpg" alt="TTA 한국정보통신기술협회"></td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

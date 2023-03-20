@@ -1,0 +1,2 @@
+(this["webpackJsonp@coreui/coreui-free-react-admin-template"]=this["webpackJsonp@coreui/coreui-free-react-admin-template"]||[]).push([[52],{698:function(e,t,r){"use strict";r.r(t);r(1);var c=r(20);t.default=function(e){return Object(c.jsx)("div",{children:"edu ICT"})}}}]);
+//# sourceMappingURL=52.e6bc2261.chunk.js.map
